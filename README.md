@@ -1,34 +1,21 @@
-### Hi there 👋
+### Hi there👋
 
-<!--
+### I'm Pasupula Sathwik
 
-**pspsathwik/pspsathwik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Full Stack Development
 
-- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning Data Science
 
-- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on Current Projects
 
-- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with Backend Services
 
-- 🤔 I’m looking for help with ...
+- 💬 Ask me about anything
 
-- 💬 Ask me about ...
+- 📫 How to reach me: pspsathwik@gmail.com
 
-- 📫 How to reach me: ...
-
-- 😄 Pronouns: ...
-
-- ⚡ Fun fact: ...
-
--->
+- 😄 Pronouns: Him / His
 
 ![](https://komarev.com/ghpvc/?username=pspsathwik)
 
-![](https://komarev.com/ghpvc/?username=pspsathwik&color=green)
 
-![](https://komarev.com/ghpvc/?username=pspsathwik&color=dc143c)
-
-![](https://komarev.com/ghpvc/?username=pspsathwik&style=flat-square)
-
-![](https://komarev.com/ghpvc/?username=pspsathwik&label=PROFILE VIEWS)
