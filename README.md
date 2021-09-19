@@ -25,10 +25,10 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=pspsathwik)
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+![](https://komarev.com/ghpvc/?username=pspsathwik&color=green)
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=dc143c)
+![](https://komarev.com/ghpvc/?username=pspsathwik&color=dc143c)
 
-![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+![](https://komarev.com/ghpvc/?username=pspsathwik&style=flat-square)
 
-![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE VIEWS)
+![](https://komarev.com/ghpvc/?username=pspsathwik&label=PROFILE VIEWS)
