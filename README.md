@@ -1,6 +1,6 @@
 ### Hi there👋
 
-### I'm Pasupula Sathwik
+### I'm Pavan
 
 - 🔭 I’m working on Full Stack Development
 
@@ -10,7 +10,7 @@
 
 - 💬 Ask me about anything
 
-- 📫 How to reach me: pspsathwik@gmail.com
+- 📫 How to reach me: - (secret) 
 
 - 😄 Pronouns: Him / His
 
