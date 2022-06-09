@@ -1,16 +1,16 @@
 ### Hi there👋
 
-### I'm Pavan
+### I'm Pasupula Sai Pavan Sathwik
 
 - 🔭 I’m working on Full Stack Development
 
-- 🌱 I’m currently learning Data Science
+- 🌱 Done some pretty projects on Data Science
 
-- 👯 I’m looking to collaborate on Current Projects on Data Science and Full Stack Development 
+- 👯 I’m looking for collaboration on Cloud projects
 
 - 💬 Ask me about anything
 
-- 📫 How to reach me: - (secret) 
+- 📫 How to reach me: - pspsathwik@gmail.com
 
 - 😄 Pronouns: Him / His
 
