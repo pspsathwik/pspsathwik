@@ -2,7 +2,7 @@
 
 ### I'm Pasupula Sai Pavan Sathwik
 
-- 🔭 I’m working on Full Stack Development
+- 🔭 I’m working as Cloud Data Engineer
 
 - 🌱 Done some pretty projects on Data Science
 
